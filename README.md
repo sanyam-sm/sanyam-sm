@@ -27,12 +27,19 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,ai,github,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,ai,github,linux,vscode,tensorflow,git" />
 </p>
 
+---
+
+## 🧠 Tech Focus
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanyam-sm&theme=tokyonight&show_icons=true&hide_border=true" height="155"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sanyam-sm&theme=tokyonight&hide_border=true" height="155"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-%2336BCF7?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-%237B1FA2?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-%2312100E?style=for-the-badge&logo=openai&logoColor=36BCF7"/>
+  <img src="https://img.shields.io/badge/AI%20Applications-%2336BCF7?style=for-the-badge&logo=neuralink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Full%20Stack%20Projects-%237B1FA2?style=for-the-badge&logo=react&logoColor=white"/>
 </p>
 
 ---
